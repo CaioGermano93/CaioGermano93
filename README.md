@@ -1,9 +1,9 @@
-### Olá Eu me chamo Caio Germano🙋🏻‍♂️
+### Hi There, I'm Caio🙋🏻‍♂️😁
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/caio-germano-36151b232/)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioGermano93&show_icons=true&theme=radical)
 
-## Tecnologias que estou estudando
+## Technologies I'm studying:
 
 <div style="display: inline_block"><br/>
   <img align-items="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,4 +14,3 @@
   <img align-items="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-Apaixonado por tecnologia🧑🏻‍💻
